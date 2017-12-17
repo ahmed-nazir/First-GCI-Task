@@ -1,0 +1,31 @@
+/*
+ * This is the default style for the web app template. If you know what you're doing,
+ *	you can customize your app's look here. If not, better leave it alone.
+ *	
+ *	Sam Scott, Sheridan College, 2013
+ */
+body {
+	text-align: center;
+	color: white;
+	font-size: 18px;
+	background-image: url("cssback.jpg");
+	font-family: Comic Sans MS;
+}
+#container {
+	margin: auto;
+}
+canvas {
+	background-color: white;
+}
+h1 {
+	margin: 1px;
+}
+h2 {
+	margin: 0px;
+	font-size: 15px;
+	font-family: Comic Sans MS;
+}
+#debug {
+	text-align:left;
+	font-family:monospace;
+}
